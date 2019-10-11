@@ -1,0 +1,16 @@
+{localhost.lc:8000}(500)[2019-03-04 23:25:48] Error: _Paste property value cannot be changed
+{localhost.lc:8000}(500)[2019-03-04 23:26:02] Error: _Plasma cannot take a new property
+{localhost.lc:8000}(500)[2019-03-04 23:26:18] Error: _Solid object cannot be changed or assigned new value to
+{localhost.lc:8000}(500)[2019-03-04 23:26:23] Error: _Solid object cannot be changed or assigned new value to
+{localhost.lc:8000}(500)[2019-03-04 23:27:50] Error: _Solid object cannot be changed or assigned new value to
+{localhost.lc:8000}(500)[2019-03-04 23:28:00] Error: _Solid object cannot be changed or assigned new value to
+{localhost.lc:8000}(500)[2019-03-04 23:28:27] ReferenceError: hi is not defined
+{localhost.lc:8000}(500)[2019-03-04 23:46:54] TypeError: this.data.unique is not a function
+{localhost.lc:8000}(500)[2019-03-04 23:47:04] TypeError: this.unique is not a function
+{localhost.lc:8000}(500)[2019-03-04 23:47:15] TypeError: d.unique is not a function
+{localhost.lc:8000}(500)[2019-03-04 23:48:15] TypeError: Cannot read property 'Symbol(nodejs.util.inspect.custom)' of undefined
+{localhost.lc:8000}(500)[2019-03-04 23:48:47] TypeError: this.data.unique is not a function
+{localhost.lc:8000}(500)[2019-03-04 23:51:32] ReferenceError: thi is not defined
+{localhost.lc:8000}(500)[2019-03-04 23:52:28] TypeError: a.all is not a function
+{localhost.lc:8000}(500)[2019-03-05 00:00:51] TypeError: Cannot read property 'Symbol(nodejs.util.inspect.custom)' of undefined
+{localhost.lc:8000}(500)[2019-03-05 00:01:02] TypeError: Cannot convert undefined or null to object
